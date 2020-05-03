@@ -1,7 +1,7 @@
 # MNIST-NET10
 This complex heterogenous fusion is composed of two heterogenous ensembles FS1 and FS2:
 
-#FS1 (CapsNet|MCDNN|DropConnect_2|CapsNet|MCDNN| DropConnect_1|DropConnect_2|Network3|Dropconnect_2) can be built using this codes:
+#FS1 (CapsNet|MCDNN|DropConnect_2|CapsNet|MCDNN| DropConnect_1|DropConnect_2|Network3|Dropconnect_2) can be built using these codes:
 1. Pre-trained CapsNet downloaded from: 
 
 https://github.com/Sarasra/models/tree/master/research/capsules
