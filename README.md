@@ -10,9 +10,9 @@ https://github.com/Sarasra/models/tree/master/research/capsules
 
 https://github.com/xanwerneck/ml_mnist
 
-3. Network3 
+3. Network3 with data augmentation
 
-4. DropConect
+4. DropConect with data augmentation
 
 
 FS2 (ECOC|PrE|MLP→LS|MLP) can be built using this codes:
