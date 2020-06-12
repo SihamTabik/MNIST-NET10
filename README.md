@@ -23,5 +23,6 @@ https://github.com/Sarasra/models/tree/master/research/capsules
 
 2. The needed codes (in Matlab) are available from: 
 
+You can download the paper from this link: https://www.researchgate.net/publication/340954880_MNIST-NET10_A_heterogeneous_deep_networks_fusion_based_on_the_degree_of_certainty_to_reach_01_error_rate_Ensembles_overview_and_proposal
  http://www.tsc.uc3m.es/~ralvear/Software.htm  
 
